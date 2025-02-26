@@ -16,7 +16,7 @@ Poi, avvia il server Flask eseguendo:
 
 Avvio del Frontend:
 
-A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb e accedendovi di nuovo con:
+A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb, accedendovi nuovamente con:
 
     cd progettofinaleweb
 
