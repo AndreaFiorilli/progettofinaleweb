@@ -1,0 +1,128 @@
+/* App.css */
+
+/* Impostazioni generali */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f6f8; /* Sfondo grigio chiaro */
+  color: #333; /* Colore del testo */
+  line-height: 1.6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.App {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Contenitore principale */
+.container {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Ombra più marcata */
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.4rem;
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 1.2rem;
+  color: #7f8c8d;
+  font-weight: 300;
+}
+
+/* Box di contenuto */
+.box {
+  margin-top: 20px;
+}
+
+.fetch-button {
+  background-color: #2980b9; /* Colore blu per il bottone */
+  color: white;
+  font-size: 1.1rem;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  font-weight: 600;
+}
+
+.fetch-button:hover {
+  background-color: #3498db;
+  transform: scale(1.05); /* Effetto di ingrandimento */
+}
+
+.fetch-button:focus {
+  outline: none;
+}
+
+/* Lista degli utenti */
+.user-list {
+  margin-top: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+.user-item {
+  background-color: #f9f9f9;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.user-item p {
+  font-size: 1rem;
+  color: #2c3e50;
+}
+
+.user-item p strong {
+  color: #2980b9; /* Colore blu per i dettagli */
+}
+
+/* Caricamento */
+.loading {
+  font-size: 1.2rem;
+  color: #3498db;
+  margin-top: 20px;
+}
+
+@media (max-width: 768px) {
+  .App {
+    width: 100%;
+    padding: 10px;
+  }
+
+  .container {
+    padding: 20px;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  .fetch-button {
+    font-size: 1rem;
+    padding: 10px 20px;
+  }
+
+  .user-item p {
+    font-size: 0.9rem;
+  }
+}
