@@ -2,7 +2,7 @@ Configurazione del progetto
 
 Avvio del Backend:
 
-Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entra al suo interno utilizzando il comando:
+Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entrandovi al suo interno utilizzando il comando:
 
     cd progettofinaleweb
 
@@ -16,15 +16,15 @@ Poi, avvia il server Flask eseguendo:
 
 Avvio del Frontend:
 
-A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb e accedi di nuovo con:
+A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb e accedendovi di nuovo con:
 
     cd progettofinaleweb
 
-Scarica tutte le dipendenze necessarie per il frontend utilizzando:
+Scarica tutte le dispense necessarie per il frontend utilizzando:
 
     npm install
 
-Per avviare il progetto in modalità sviluppo, esegui:
+Per avviare il progetto, esegui:
 
     npm run dev
 
