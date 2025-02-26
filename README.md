@@ -14,18 +14,17 @@ Poi, avvia il server Flask eseguendo:
     python3 app.py
 
 Avvio del Frontend:
+A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb e accedi di nuovo con:
 
-    A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb e accedi di nuovo con:
-
-cd progettofinaleweb
+    cd progettofinaleweb
 
 Scarica tutte le dipendenze necessarie per il frontend utilizzando:
 
-npm install
+    npm install
 
 Per avviare il progetto in modalità sviluppo, esegui:
 
-npm run dev
+    npm run dev
 
 Una volta avviato, cliccando sul link fornito nel terminale, sarai indirizzato alla pagina web del progetto.
 
