@@ -6,7 +6,7 @@ Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entra al s
 
     cd progettofinaleweb
 
-    Installa il pacchetto Flask CORS con il comando:
+Installa il pacchetto Flask CORS con il comando:
 
     pip install flask_cors
 
