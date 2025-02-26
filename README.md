@@ -1,13 +1,13 @@
 Configurazione del progetto
 
-    Avvio del Backend:
-        Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entra al suo interno utilizzando il comando:
+Avvio del Backend:
+Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entra al suo interno utilizzando il comando:
 
-cd progettofinaleweb
+    cd progettofinaleweb
 
-Installa il pacchetto Flask CORS con il comando:
+    Installa il pacchetto Flask CORS con il comando:
 
-pip install flask_cors
+    pip install flask_cors
 
 Poi, avvia il server Flask eseguendo:
 
