@@ -2,7 +2,7 @@ Configurazione del progetto
 
 Avvio del Backend:
 
-Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entrandovi al suo interno utilizzando il comando:
+Per prima cosa, apri il terminale nella cartella progettofinaleweb, entrandovi al suo interno utilizzando il comando:
 
     cd progettofinaleweb
 
