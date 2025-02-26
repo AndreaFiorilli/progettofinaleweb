@@ -1,6 +1,7 @@
 Configurazione del progetto
 
 Avvio del Backend:
+
 Per prima cosa, apri il terminale nella cartella progettofinaleweb ed entra al suo interno utilizzando il comando:
 
     cd progettofinaleweb
@@ -14,6 +15,7 @@ Poi, avvia il server Flask eseguendo:
     python3 app.py
 
 Avvio del Frontend:
+
 A questo punto, apri un altro terminale nella stessa cartella progettofinaleweb e accedi di nuovo con:
 
     cd progettofinaleweb
